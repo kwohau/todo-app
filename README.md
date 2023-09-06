@@ -1,7 +1,5 @@
 # todo-app
 
-Tentu, berikut adalah format yang dapat Anda salin dan tempelkan langsung ke file README di GitHub:
-
 ```markdown
 # Aplikasi Todo
 
